@@ -11,3 +11,5 @@ git push -u origin master //将本地的内容上传至远程库中
 git remote add origin git@github.com:Xubn1105/learngit.git //连接远程库的命令
 
 git remote -v //查看远程库的信息
+
+git clone //克隆一个本地库
