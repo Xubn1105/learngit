@@ -5,3 +5,5 @@ git reset --hard HEAD^ //版本回滚命令 ^的个数代表回滚的次数
 git reset --hard commit_id //版本回滚再滚回来 commit_id 可以通过git log来查看
 
 git reflog  //查看历史命令
+
+git push -u origin master //将本地的内容上传至远程库中
